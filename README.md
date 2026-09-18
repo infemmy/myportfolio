@@ -5,10 +5,10 @@ A static personal portfolio website that introduces Emmy, highlights professiona
 ## Features
 
 - About Me section with a professional introduction and profile image
-- Experience section covering IT Technician, ICT Teacher, and ICT Laboratory Technician roles
+- Experience table covering IT Technician, ICT Teacher, and ICT Laboratory Technician roles
 - Skills section covering IT support, web development, networking, systems administration, maintenance, and database management
 - Career Goal section describing continued learning and professional growth
-- Responsive layout using Bootstrap-style grid classes and custom CSS
+- Responsive layout using Bootstrap-style grid classes, a styled experience table, and custom CSS
 
 ## How to run this project
 
@@ -43,7 +43,8 @@ The project can be viewed locally in a web browser or published through a static
 ```text
 myportfolio/
 ├── images/
-│   └── emmy.jpeg
+│   ├── emmy.jpeg
+│   └── emmy2.jpeg
 ├── styles/
 │   └── main.css
 ├── index.html
