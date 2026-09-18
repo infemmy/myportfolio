@@ -1,18 +1,18 @@
 # Emmanuel NIYOMUGABO's Personal Portfolio
 
-A static personal portfolio website that introduces Emmy, highlights professional experience and technical skills, and describes career goals in Information Technology. The project is built with HTML and CSS and is suitable for viewing locally or hosting as a static website.
+A static personal portfolio website for NIYOMUGABO Emmanuel. It presents an Information Technology professional's background, experience, technical skills, and career objective using a responsive HTML and CSS layout.
 
 ## Features
 
-- About Me section with a professional introduction and profile image
-- Experience table covering IT Technician, ICT Teacher, and ICT Laboratory Technician roles
-- Skills section covering IT support, web development, networking, systems administration, maintenance, and database management
-- Career Goal section describing continued learning and professional growth
-- Responsive layout using Bootstrap-style grid classes, a styled experience table, and custom CSS
+- Introduction and About Me section with education and professional background
+- Professional Experience table covering IT Technician, ICT Teacher, and ICT Laboratory Technician roles
+- Technical Skills section covering IT support, web development, networking, systems administration, maintenance, and database management
+- Career Objective section describing continued learning and professional growth
+- Colorful responsive design using HTML, CSS, and Bootstrap-style grid classes
 
 ## How to run this project
 
-The project can be viewed locally in a web browser or published through a static hosting service such as GitHub Pages.
+The project is available in the GitHub repository below and can be viewed locally in any modern web browser. It can also be published as a static website through GitHub Pages.
 
 ### Prerequisites
 
@@ -34,9 +34,17 @@ The project can be viewed locally in a web browser or published through a static
    cd myportfolio
    ```
 
-3. Open `index.html` in a web browser.
+3. Open `index.html` in a web browser to view the portfolio.
 
-4. To publish the project, push the files to a GitHub repository and enable GitHub Pages in the repository settings.
+4. To publish it online, enable GitHub Pages in the repository settings and select the `main` branch as the deployment source.
+
+## Portfolio sections
+
+- **Introduction:** A short summary of the professional focus of the portfolio.
+- **About Me:** Education and Information Technology background.
+- **Professional Experience:** A table of roles and responsibilities.
+- **Technical Skills:** IT support, web development, networking, systems administration, maintenance, and database management.
+- **Career Objective:** Future learning and professional development goals.
 
 ## Project structure
 
@@ -55,13 +63,13 @@ myportfolio/
 
 ## License
 
-The HTML and CSS source code in this project is provided under the MIT License for educational and demonstration purposes. See [LICENSE.txt](LICENSE.txt) for the full license terms.
+The HTML and CSS source code in this project is provided under the MIT License for educational and demonstration purposes. See [LICENSE.txt](LICENSE.txt) for the full license terms and permitted uses.
 
 The profile photograph and any other personal media are not included under the source-code license. They may not be copied, redistributed, or reused without permission from the copyright holder.
 
 ## Contributors
 
-- Infemmy - portfolio author and maintainer
+- NIYOMUGABO Emmanuel - portfolio author and maintainer
 
 ## Project link
 
