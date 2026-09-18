@@ -3924,6 +3924,14 @@ h1 {
   text-align: center;
 }
 
+.intro {
+  max-width: 760px;
+  margin: -0.75rem auto 2rem;
+  color: #42526b;
+  font-size: 1.15rem;
+  text-align: center;
+}
+
 .container {
   max-width: none;
   padding: 2rem;
