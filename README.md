@@ -51,7 +51,6 @@ The project is available in the GitHub repository below and can be viewed locall
 ```text
 myportfolio/
 ├── images/
-│   ├── emmy.jpeg
 │   └── emmy2.jpeg
 ├── styles/
 │   └── main.css
