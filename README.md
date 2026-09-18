@@ -1,4 +1,4 @@
-# Emmy's Personal Portfolio
+# Emmanuel NIYOMUGABO's Personal Portfolio
 
 A static personal portfolio website that introduces Emmy, highlights professional experience and technical skills, and describes career goals in Information Technology. The project is built with HTML and CSS and is suitable for viewing locally or hosting as a static website.
 
